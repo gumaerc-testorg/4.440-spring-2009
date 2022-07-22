@@ -6,6 +6,7 @@ file: /courses/4-440-basic-structural-design-spring-2009/f0db2c64d4ede6bbb217eee
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Beam Design Project
 uid: f0db2c64-d4ed-e6bb-b217-eee8f78495a5
 ---
 Project to design a simply-supported beam to carry a heavy load at the center.
-
