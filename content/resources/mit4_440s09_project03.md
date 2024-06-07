@@ -2,6 +2,7 @@
 content_type: resource
 description: Project to design a long span roof to serve as an open market and pavilion.
 file: /courses/4-440-basic-structural-design-spring-2009/65aea134c6a1d5951e76e8bf33a01e77_MIT4_440s09_project03.pdf
+file_size: 49187
 file_type: application/pdf
 learning_resource_types:
 - Assignments
