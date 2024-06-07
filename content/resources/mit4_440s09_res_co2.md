@@ -2,6 +2,7 @@
 content_type: resource
 description: A chart of the carbon dioxide content of various building materials.
 file: /courses/4-440-basic-structural-design-spring-2009/cd327c82299028779f06b76fc7575dd7_MIT4_440s09_res_CO2.pdf
+file_size: 33459
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
