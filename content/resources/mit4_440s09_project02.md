@@ -2,7 +2,7 @@
 content_type: resource
 description: Project to design a simply-supported beam to carry a heavy load at the
   center.
-file: /courses/4-440-basic-structural-design-spring-2009/f0db2c64d4ede6bbb217eee8f78495a5_MIT4_440s09_project02.pdf
+file: /ol-ocw-studio-app/courses/4-440-basic-structural-design-spring-2009/f0db2c64d4ede6bbb217eee8f78495a5_MIT4_440s09_project02.pdf
 file_size: 30503
 file_type: application/pdf
 learning_resource_types:
