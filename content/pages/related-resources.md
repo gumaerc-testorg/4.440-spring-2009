@@ -10,6 +10,6 @@ title: Related Resources
 uid: 54046f57-c7f7-50a4-4aca-af098335163b
 ---
 
-{{% resource_link "03fc70ee-ecbc-4f14-911a-654331a69eb1" "Active Statics" %}}, Simon Greenwold and Edward Allen. An introduction to graphic statics through a series of interactive applets.
+[Active Statics](http://acg.media.mit.edu/people/simong/statics/data/), Simon Greenwold and Edward Allen. An introduction to graphic statics through a series of interactive applets.
 
 CO{{< sub "2" >}} Content for Building Materials ({{% resource_link cd327c82-2990-2877-9f06-b76fc7575dd7 "PDF" %}})
